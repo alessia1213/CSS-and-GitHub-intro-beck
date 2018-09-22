@@ -6,6 +6,7 @@
 body {
     background: #6371E1; /* must change */
     color: #000; /* may be #000 or #fff */
+    font-family: Calibri, Arial, sans-serif; /* keep */
 }
 
 article {
